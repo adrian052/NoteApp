@@ -5,7 +5,7 @@
 
 <p>The application is separated into backend and frontend using the mongo db database, NodeJs and ExpressJs, also using ReactJs as a framework on the frontend.<p>
  
- # For ReactJs(Backend) you can follow the steps bellow:
+ # ->->For ReactJs(Frontend) you can follow the steps bellow:
  
  This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -62,6 +62,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/an
 
 ### Making a Progressive Web App
 
+
 This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
 ### Advanced Configuration
@@ -75,3 +76,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+# For Backend you can follow the steps bellow:
+
+### npm run dev 
+to deploy the API on Port 4000
